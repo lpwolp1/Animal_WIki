@@ -1,0 +1,89 @@
+
+
+
+body {
+  background-color: white;
+}
+.h1{
+  color: black;
+  background-color: none;
+  margin-top:-50px;
+  text-align: center;
+  font-size: 60px;
+  font-family: sans-serif;
+  background-color: orangered;
+}
+
+h3 {
+  color: black;
+  background-color: orangered;
+  text-align: center;
+  font-size: 60px;
+}
+
+p {
+  color: black;
+  column-count: 2;
+  border-left: black 5px;
+}
+
+p {
+  font-size: 40;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 80px;
+  line-height: 2;
+}
+
+.bamboo{ object-fit:cover; }
+
+.bamboo2{ object-fit:footer; }
+
+.panda{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 920px;
+}
+
+
+      .branch{
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 920px;
+      }
+
+                    .anatomy{
+            display:block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 920px;
+}
+
+                      .playing{
+                                  display:block;
+                                  margin-left: auto;
+                                  margin-right: auto;
+                                  width: 920px;
+                      }
+
+                      .forest{
+                                  display:block;
+                                  margin-left: auto;
+                                  margin-right: auto;
+                                  width: 920px;
+                      }
+
+
+                      .playful{
+                                  display:block;
+                                  margin-left: auto;
+                                  margin-right: auto;
+                                  width: 920px;
+                      }
+.about {}
+
+
+
